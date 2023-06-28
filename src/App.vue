@@ -8,4 +8,7 @@ export default {
 }
 </script>
 
-<template></template>
+<template>
+  <!-- header -->
+  <AppTitle />
+</template>
